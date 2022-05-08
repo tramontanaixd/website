@@ -12,6 +12,6 @@
 
 ###### tramontana libraries:
 
-* [Processing](https://pierdr.github.io/Tramontana-for-Processing/#download)
+* **Processing**: You can download tramontana from the Contribution Manager. If you want to download the zip file click [here](https://github.com/tramontanaixd/processing-library/Tramontana.zip). 
 * [Javascript](https://pierdr.github.io/Tramontana-for-Javascript/)
 * [openFrameworks](https://github.com/pierdr/ofxTramontana)
